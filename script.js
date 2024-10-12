@@ -20,6 +20,7 @@ function runInAnimations() {
     leftBox.classList.add('run-right-left');
     slantedLine.classList.add('run-cool-box');
     welcomeText.classList.add('run-left-right');
+
 }
 
 function runOutAnimations() {
